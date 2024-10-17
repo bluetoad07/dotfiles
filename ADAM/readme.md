@@ -1,6 +1,6 @@
 # ADAM
 
-ADAM is my primary (and only) laptop and workstation, named after the character from Metroid. It currently runs ArchLinux with bspwm.
+ADAM is my primary (and only) laptop and workstation, named after the character from Metroid. It currently runs ArchLinux with bspwm. Everything is themed with the Rosé Pine colorscheme.
 
 -- these dots are a work in progress!
 
@@ -23,5 +23,7 @@ terminal - [alacritty](https://alacritty.org/)
 editor - [neovim](https://neovim.io/)
 
 fetch - [fastfetch](https://github.com/fastfetch-cli/fastfetch)
+
+theme - [rosé-pine](https://rosepinetheme.com/)
 
 font - [cozette](https://github.com/slavfox/Cozette)
