@@ -1,0 +1,34 @@
+import = ["~/.config/alacritty/themes/rose-pine.toml"]
+
+
+live_config_reload = true
+
+[env]
+
+WINIT_X11_SCALE_FACTOR = "0.75"
+
+[window]
+
+padding = { x = 16, y = 16 }
+
+opacity = 0.85 
+
+dynamic_title = true
+
+[font]
+
+normal = { family = "cozette", style = "normal" }
+
+bold = { family = "cozette", style = "normal" }
+
+italic = { family = "cozette", style = "normal" }
+
+bold_italic = { family = "cozette", style = "normal" }
+
+size = 13
+
+builtin_box_drawing = false
+
+[cursor]
+
+style = { shape = "Underline", blinking = "Always" }
