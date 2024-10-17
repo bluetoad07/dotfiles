@@ -10,7 +10,7 @@ coming soon
 
 ## software
 
-os - [archlinux][https://archlinux.org/]
+os - [archlinux](https://archlinux.org/)
 
 window manager - [bspwm][https://github.com/baskerville/bspwm]
 
